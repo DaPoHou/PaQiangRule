@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
 
 # Developer 开发者常用国外网站、镜像和论坛
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,elastic.co
