@@ -1,4 +1,9 @@
 #下方都代理
+#Custom
+DOMAIN-KEYWORD,symantec
+DOMAIN-SUFFIX,webtrees.net
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,inoreader.com
 # Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
