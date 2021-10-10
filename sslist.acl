@@ -102,8 +102,6 @@
 [proxy_list]
 
 # MyList
-(^|\.)webtrees\.net$
-
 
 # 国外域名
 #^.*\.eu$
@@ -6089,6 +6087,7 @@
 (^|\.)wikiversity\.org$
 (^|\.)wikivoyage\.org$
 (^|\.)wiktionary\.org$
+(^|\.)webtrees\.net$
 
 #飞流直播
 (^|\.)neulion\.com$
