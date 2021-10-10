@@ -87,7 +87,20 @@
 [proxy_list]
 
 # MyList
-
+(^|\.)jkouu\.com$
+(^|\.)leankun\.com$
+(^|\.)xiqqq\.com$
+(^|\.)keeearl\.top$
+(^|\.)51mld\.cn$
+(^|\.)ffjd1\.com$
+(^|\.)iwx6x\.com$
+(^|\.)6187wo\.com$
+(^|\.)kyy01\.top$
+(^|\.)lcloc\.com$
+(^|\.)fuoo1\.top$
+(^|\.)qdwght\.com$
+(^|\.)aiggkj\.cn$
+(^|\.)liying1\.cn$
 # 国外域名
 #^.*\.eu$
 #^.*\.hk$
