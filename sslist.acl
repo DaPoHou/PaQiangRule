@@ -13,7 +13,7 @@
 ### 默认直连 自己可以自定义
 [outbound_block_list]
 ###禁止访问列表
-###广告过滤
+###广告过滤11
 [bypass_list]
 ####直连列表
 #(^|\.)translate\.googleapis\.com$
