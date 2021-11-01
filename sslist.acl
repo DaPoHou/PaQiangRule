@@ -17,6 +17,10 @@
 [bypass_list]
 ####直连列表
 #(^|\.)translate\.googleapis\.com$
+127.0.0.0/8
+172.16.0.0/12
+192.168.0.0/16
+10.0.0.0/8
 (^|\.)265\.com$
 (^|\.)2mdn\.net$
 (^|\.)alt1-mtalk\.google\.com$
